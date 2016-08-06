@@ -1,0 +1,25 @@
+_repo: Un-tournoi---Romans-en-1484_10824
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Chevalier, Ulysse
+    birthdate: 1804
+    deathdate: 1893
+    gutenberg_agent_id: '32926'
+    url: http://www.gutenberg.org/2009/agents/32926
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10824'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tournaments, Medieval -- France'
+- !lcc 'DC'
+- GITenberg
+title: Un tournoi à Romans en 1484
+url: http://www.gutenberg.org/ebooks/10824
